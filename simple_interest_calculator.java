@@ -1,4 +1,3 @@
-package com.mycompany.first_project;
 import java.util.Scanner;
 
 public class Simple_interest_calculator{
